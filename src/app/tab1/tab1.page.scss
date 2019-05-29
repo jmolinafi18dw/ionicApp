@@ -1,0 +1,22 @@
+
+.welcome-card ion-img {
+  max-height: 20vh;
+  max-width: 20vh;
+  overflow: hidden;
+  border-radius:10vh;
+  border: 1px solid blue;
+  display:inline-block;
+}
+
+#titulo{
+	text-align:center;
+	font-weight: bold;
+}
+
+#principal{
+	text-align:center;
+}
+ion-icon{padding-right:10px;}
+
+ion-item{margin-left:15px;}
+
